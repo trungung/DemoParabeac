@@ -1,0 +1,33 @@
+name: demo
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/demo/assets/images/ellipse24.png
+    - packages/demo/assets/images/ellipse25.png
+    - packages/demo/assets/images/vector.svg
+    - packages/demo/assets/images/rectangle17.png
+    - packages/demo/assets/images/ellipse10.png
+    - packages/demo/assets/images/hearticon.svg
+    - packages/demo/assets/images/ellipse3.png
+    - packages/demo/assets/images/group39.svg
+    - packages/demo/assets/images/group40.svg
+    - packages/demo/assets/images/threedotsmenuicon.svg
+    - packages/demo/assets/images/profile.png
+    - packages/demo/assets/images/ellipse23.png
+    - packages/demo/assets/images/ellipse22.png
